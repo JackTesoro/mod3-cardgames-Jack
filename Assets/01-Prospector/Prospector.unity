@@ -707,11 +707,11 @@ MonoBehaviour:
     type: slot
     stagger: {x: 0, y: 0}
   sortingLayerNames:
-  - Row4
-  - Row3
-  - Row2
-  - Row1
   - Row0
+  - Row1
+  - Row2
+  - Row3
+  - Row4
   - Discard
   - Draw
 --- !u!114 &827460517
